@@ -1,4 +1,4 @@
-Bienvenidos a nuestro repositorio!
+BIENVENIDOS
 
 El proyecto consiste en el desarrollo de un Sistema de Gestión y Registro para Taller Mecánico, una aplicación de escritorio diseñada para automatizar y optimizar la administración de clientes y vehículos en un taller de servicio técnico.
 
